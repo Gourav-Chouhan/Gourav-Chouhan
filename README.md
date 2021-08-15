@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gourav-Chouhan
-- 👀 I’m interested in WebDev, CP, AI, ML and most important is playing games, cubing
+- 👀 I’m interested in WebDev, CP, AI, ML
 - 🌱 I’m currently learning to not to learn everything that sounds interesting
 - 📫 How to reach me: Instagram user id: gg_gourav_chouhan
 
